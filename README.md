@@ -1,7 +1,6 @@
 # Test Question #
 
-`
-class Program
+```class Program
 {
 	static String location;
     static DateTime time;
@@ -10,8 +9,7 @@ class Program
         Console.WriteLine(location == null ? "Location is null." : location);
         Console.WriteLine(time == null ? "Time is null." : time.ToString());
     }
-}
-`
+}```
 
 
 ---
