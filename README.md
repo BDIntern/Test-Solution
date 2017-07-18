@@ -1,6 +1,7 @@
 # Test Question #
 
-```class Program
+```
+class Program
 {
 	static String location;
     static DateTime time;
