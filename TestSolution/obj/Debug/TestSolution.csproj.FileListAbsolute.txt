@@ -4,3 +4,10 @@ c:\users\user\documents\visual studio 2017\Projects\TestSolution\TestSolution\bi
 c:\users\user\documents\visual studio 2017\Projects\TestSolution\TestSolution\obj\Debug\TestSolution.csprojResolveAssemblyReference.cache
 c:\users\user\documents\visual studio 2017\Projects\TestSolution\TestSolution\obj\Debug\TestSolution.exe
 c:\users\user\documents\visual studio 2017\Projects\TestSolution\TestSolution\obj\Debug\TestSolution.pdb
+D:\hacktober\Test-Solution\TestSolution\bin\Debug\TestSolution.exe.config
+D:\hacktober\Test-Solution\TestSolution\bin\Debug\TestSolution.exe
+D:\hacktober\Test-Solution\TestSolution\bin\Debug\TestSolution.pdb
+D:\hacktober\Test-Solution\TestSolution\obj\Debug\TestSolution.csprojAssemblyReference.cache
+D:\hacktober\Test-Solution\TestSolution\obj\Debug\TestSolution.csproj.CoreCompileInputs.cache
+D:\hacktober\Test-Solution\TestSolution\obj\Debug\TestSolution.exe
+D:\hacktober\Test-Solution\TestSolution\obj\Debug\TestSolution.pdb

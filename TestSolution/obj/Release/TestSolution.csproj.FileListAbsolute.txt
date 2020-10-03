@@ -1,0 +1,6 @@
+D:\hacktober\Test-Solution\TestSolution\bin\Release\TestSolution.exe.config
+D:\hacktober\Test-Solution\TestSolution\bin\Release\TestSolution.exe
+D:\hacktober\Test-Solution\TestSolution\bin\Release\TestSolution.pdb
+D:\hacktober\Test-Solution\TestSolution\obj\Release\TestSolution.csproj.CoreCompileInputs.cache
+D:\hacktober\Test-Solution\TestSolution\obj\Release\TestSolution.exe
+D:\hacktober\Test-Solution\TestSolution\obj\Release\TestSolution.pdb
