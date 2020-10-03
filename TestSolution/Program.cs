@@ -2,13 +2,13 @@
 
 namespace TestSolution
 {
-    class Program
+    public class Program
     {
-        static String location;
-        static DateTime time;
+        static readonly string location;
+        static readonly DateTime time;
         static void Main(string[] args)
         {
-            Console.WriteLine(location == null ? "Location is null." : location);
+            Console.WriteLine(location ?? "Location is null.");
             Console.WriteLine(time == null ? "Time is null." : time.ToString());
             Console.ReadKey();
         }
